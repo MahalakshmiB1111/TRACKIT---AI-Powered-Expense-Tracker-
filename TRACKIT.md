@@ -1,7 +1,5 @@
 # TRACKIT---AI-Powered-Expense-Tracker-
 
-
-
 import os
 import tkinter as tk
 from tkinter import ttk
